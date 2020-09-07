@@ -1,3 +1,6 @@
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -17,4 +20,11 @@ section, summary, time, mark, audio, video {
   vertical-align: baseline; }
   h1 {
     color: orange;
+	font-size: 32pt
+}
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #031687;
+  color: white;
 }

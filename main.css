@@ -4,11 +4,6 @@
 * {
   box-sizing: border-box;
 }
-.container {
-	display: flex
-	flex-wrap: wrap;
-	width: 100%;
-}
 /* Column container */
 .row {
   display: flex;

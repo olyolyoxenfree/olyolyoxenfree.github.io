@@ -14,7 +14,7 @@
 /* Sidebar/left column */
 .side {
   flex: 30%; /* Set the width of the sidebar */
-  background-color: #7070db; /* light blue background color */
+  background-color: #d6d6f5; /* light blue background color */
   padding: 20px; /* Some padding */
 }
 /* Main column */
@@ -23,13 +23,17 @@
   background-color: white; /* White background color */
   padding: 20px; /* Some padding */
 }
-  h1 {
-    color: white;
-	font-size: 32pt
-}
 .header {
   padding: 30px;
   text-align: center;
   background: #031687;
   color: white;
+}
+ h1 {
+    color: white;
+	font-size: 32pt
+}
+h2 {
+	color: white;
+	font-size:28pt;
 }

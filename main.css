@@ -20,7 +20,7 @@ body {
 
 /* Increase the font size of the h1 element */
 .header h1 {
-  font-size: 40px;
+  font-size: 50px;
 }
 
 /* Style the top navigation bar */
@@ -71,13 +71,6 @@ body {
   padding: 20px;
 }
 
-/* Fake image, just for this example */
-.JackPhoto {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -111,6 +104,6 @@ body {
 	font-size: 32pt
 }
 h2 {
-	color: white;
+	color: black;
 	font-size:28pt;
 }
